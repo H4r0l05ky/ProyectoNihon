@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "termino": "水",
+    "pronunciacion": "みず",
+    "significados": ["agua", "líquido", "agua potable"],
+    "ejemplo": {
+      "oracion": "朝、コップ一杯の水を飲みます。",
+      "traduccion": "Por la mañana, bebo un vaso de agua."
+    }
+  },
+  {
+    "id": 2,
+    "termino": "火",
+    "pronunciacion": "ひ",
+    "significados": ["fuego", "llama", "incendio"],
+    "ejemplo": {
+      "oracion": "火を消してください。",
+      "traduccion": "Por favor, apaga el fuego."
+    }
+  },
+  {
+    "id": 3,
+    "termino": "木",
+    "pronunciacion": "き",
+    "significados": ["árbol", "madera", "planta leñosa"],
+    "ejemplo": {
+      "oracion": "庭に大きい木があります。",
+      "traduccion": "Hay un árbol grande en el jardín."
+    }
+  },
+  {
+    "id": 4,
+    "termino": "山",
+    "pronunciacion": "やま",
+    "significados": ["montaña", "monte", "cerro"],
+    "ejemplo": {
+      "oracion": "週末に山に登ります。",
+      "traduccion": "El fin de semana subo a la montaña."
+    }
+  },
+  {
+    "id": 5,
+    "termino": "川",
+    "pronunciacion": "かわ",
+    "significados": ["río", "corriente", "arroyo"],
+    "ejemplo": {
+      "oracion": "この川はとても綺麗です。",
+      "traduccion": "Este río es muy hermoso."
+    }
+  },
+  {
+    "id": 6,
+    "termino": "学校",
+    "pronunciacion": "がっこう",
+    "significados": ["escuela", "colegio", "centro educativo"],
+    "ejemplo": {
+      "oracion": "毎朝、学校に行きます。",
+      "traduccion": "Cada mañana voy a la escuela."
+    }
+  },
+  {
+    "id": 7,
+    "termino": "先生",
+    "pronunciacion": "せんせい",
+    "significados": ["profesor", "maestro", "persona con título o experiencia (uso honorífico)"],
+    "ejemplo": {
+      "oracion": "田中先生はとても親切です。",
+      "traduccion": "El profesor Tanaka es muy amable."
+    }
+  },
+  {
+    "id": 8,
+    "termino": "友達",
+    "pronunciacion": "ともだち",
+    "significados": ["amigo", "compañero", "camarada"],
+    "ejemplo": {
+      "oracion": "友達と映画を見ました。",
+      "traduccion": "Vi una película con un amigo."
+    }
+  },
+  {
+    "id": 9,
+    "termino": "食べる",
+    "pronunciacion": "たべる",
+    "significados": ["comer", "alimentarse", "ingerir alimentos"],
+    "ejemplo": {
+      "oracion": "昼ご飯を食べました。",
+      "traduccion": "Comí el almuerzo."
+    }
+  },
+  {
+    "id": 10,
+    "termino": "飲む",
+    "pronunciacion": "のむ",
+    "significados": ["beber", "tomar", "ingerir líquido"],
+    "ejemplo": {
+      "oracion": "お茶を飲みませんか。",
+      "traduccion": "¿No quieres tomar té?"
+    }
+  },
+  {
+    "id": 11,
+    "termino": "大きい",
+    "pronunciacion": "おおきい",
+    "significados": ["grande", "amplio", "extenso"],
+    "ejemplo": {
+      "oracion": "この犬はとても大きいです。",
+      "traduccion": "Este perro es muy grande."
+    }
+  },
+  {
+    "id": 12,
+    "termino": "小さい",
+    "pronunciacion": "ちいさい",
+    "significados": ["pequeño", "chico", "diminuto"],
+    "ejemplo": {
+      "oracion": "小さい猫がいます。",
+      "traduccion": "Hay un gato pequeño."
+    }
+  },
+  {
+    "id": 13,
+    "termino": "新しい",
+    "pronunciacion": "あたらしい",
+    "significados": ["nuevo", "reciente", "moderno"],
+    "ejemplo": {
+      "oracion": "新しい靴を買いました。",
+      "traduccion": "Compré zapatos nuevos."
+    }
+  },
+  {
+    "id": 14,
+    "termino": "走る",
+    "pronunciacion": "はしる",
+    "significados": ["correr", "apresurarse", "avanzar rápidamente"],
+    "ejemplo": {
+      "oracion": "毎日公園で走ります。",
+      "traduccion": "Corro en el parque todos los días."
+    }
+  },
+  {
+    "id": 15,
+    "termino": "話す",
+    "pronunciacion": "はなす",
+    "significados": ["hablar", "conversar", "comunicarse"],
+    "ejemplo": {
+      "oracion": "日本語を話すことができます。",
+      "traduccion": "Puedo hablar japonés."
+    }
+  },
+  {
+    "id": 16,
+    "termino": "読む",
+    "pronunciacion": "よむ",
+    "significados": ["leer", "interpretar", "recitar"],
+    "ejemplo": {
+      "oracion": "本を読むのが好きです。",
+      "traduccion": "Me gusta leer libros."
+    }
+  },
+  {
+    "id": 17,
+    "termino": "書く",
+    "pronunciacion": "かく",
+    "significados": ["escribir", "redactar", "anotar"],
+    "ejemplo": {
+      "oracion": "手紙を書いています。",
+      "traduccion": "Estoy escribiendo una carta."
+    }
+  },
+  {
+    "id": 18,
+    "termino": "天気",
+    "pronunciacion": "てんき",
+    "significados": ["clima", "tiempo atmosférico", "condiciones climáticas"],
+    "ejemplo": {
+      "oracion": "今日の天気はいいです。",
+      "traduccion": "El clima de hoy es bueno."
+    }
+  },
+  {
+    "id": 19,
+    "termino": "電車",
+    "pronunciacion": "でんしゃ",
+    "significados": ["tren", "tren eléctrico", "ferrocarril"],
+    "ejemplo": {
+      "oracion": "電車で会社に行きます。",
+      "traduccion": "Voy al trabajo en tren."
+    }
+  },
+  {
+    "id": 20,
+    "termino": "仕事",
+    "pronunciacion": "しごと",
+    "significados": ["trabajo", "empleo", "ocupación"],
+    "ejemplo": {
+      "oracion": "明日は仕事があります。",
+      "traduccion": "Mañana tengo trabajo."
+    }
+  },
+  {
+    "id": 21,
+    "termino": "家族",
+    "pronunciacion": "かぞく",
+    "significados": ["familia", "parientes", "núcleo familiar"],
+    "ejemplo": {
+      "oracion": "家族と一緒に旅行します。",
+      "traduccion": "Viajo junto con mi familia."
+    }
+  },
+  {
+    "id": 22,
+    "termino": "元気",
+    "pronunciacion": "げんき",
+    "significados": ["salud", "energía", "vitalidad"],
+    "ejemplo": {
+      "oracion": "おかげさまで元気です。",
+      "traduccion": "Estoy bien, gracias."
+    }
+  },
+  {
+    "id": 23,
+    "termino": "忙しい",
+    "pronunciacion": "いそがしい",
+    "significados": ["ocupado", "atareado", "con mucho trabajo"],
+    "ejemplo": {
+      "oracion": "今週はとても忙しいです。",
+      "traduccion": "Esta semana estoy muy ocupado."
+    }
+  },
+  {
+    "id": 24,
+    "termino": "楽しい",
+    "pronunciacion": "たのしい",
+    "significados": ["divertido", "agradable", "placentero"],
+    "ejemplo": {
+      "oracion": "パーティーはとても楽しかったです。",
+      "traduccion": "La fiesta fue muy divertida."
+    }
+  },
+  {
+    "id": 25,
+    "termino": "難しい",
+    "pronunciacion": "むずかしい",
+    "significados": ["difícil", "complicado", "arduo"],
+    "ejemplo": {
+      "oracion": "この問題は難しいです。",
+      "traduccion": "Este problema es difícil."
+    }
+  },
+  {
+    "id": 26,
+    "termino": "約束",
+    "pronunciacion": "やくそく",
+    "significados": ["promesa", "compromiso", "cita acordada"],
+    "ejemplo": {
+      "oracion": "友達と約束をしました。",
+      "traduccion": "Hice una promesa con mi amigo."
+    }
+  },
+  {
+    "id": 27,
+    "termino": "神",
+    "pronunciacion": "かみ",
+    "significados": ["Dios", "divinidad", "ser supremo"],
+    "ejemplo": {
+      "oracion": "神は愛です。",
+      "traduccion": "Dios es amor."
+    }
+  },
+  {
+    "id": 28,
+    "termino": "恵み",
+    "pronunciacion": "めぐみ",
+    "significados": ["gracia", "bendición", "favor divino"],
+    "ejemplo": {
+      "oracion": "神の恵みに感謝します。",
+      "traduccion": "Agradezco la gracia de Dios."
+    }
+  },
+  {
+    "id": 29,
+    "termino": "知恵",
+    "pronunciacion": "ちえ",
+    "significados": ["sabiduría", "discernimiento", "inteligencia práctica"],
+    "ejemplo": {
+      "oracion": "知恵は宝物です。",
+      "traduccion": "La sabiduría es un tesoro."
+    }
+  },
+  {
+    "id": 30,
+    "termino": "純潔",
+    "pronunciacion": "じゅんけつ",
+    "significados": ["castidad", "pureza", "integridad moral"],
+    "ejemplo": {
+      "oracion": "純潔は美しい徳です。",
+      "traduccion": "La castidad es una virtud hermosa."
+    }
+  }
+]
